@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\repo\\interfaces\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\repo\\interfaces\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\repo\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\repo\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\repo\\implementations\\teacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\repo\\implementations\\teacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\repo\\implementations\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\repo\\implementations\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\repo\\interfaces\\iteacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\repo\\interfaces\\iteacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\dtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\dtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\repo\\implementations\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\repo\\implementations\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\dtos\\createteacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\dtos\\createteacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\appcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\appcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\models\\enrollement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\models\\enrollement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\models\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\models\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|c:\\users\\aadel.ahmed\\source\\repos\\schoolapi\\schoolapi\\migrations\\20261011101406_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE6D26-F6FB-4C30-9ACB-5C9AF1789CD9}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\migrations\\20261011101406_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Repo\\Interfaces\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Repo\\Interfaces\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Repo\\Interfaces\\IGenericRepo.cs",
+              "RelativeToolTip": "SchoolApi\\Repo\\Interfaces\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T09:56:04.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\UnitOfWorks\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeToolTip": "SchoolApi\\UnitOfWorks\\UnitOfWork.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T11:29:43.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Program.cs",
+              "RelativeToolTip": "SchoolApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T09:53:05.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SchoolApi\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T12:02:49.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "SchoolApi\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAowBMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T11:35:52.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Repo\\Interfaces\\IStudentRepo.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Repo\\Interfaces\\IStudentRepo.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Repo\\Interfaces\\IStudentRepo.cs",
+              "RelativeToolTip": "SchoolApi\\Repo\\Interfaces\\IStudentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T12:08:36.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Repo\\Implementations\\TeacherRepo.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Repo\\Implementations\\TeacherRepo.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Repo\\Implementations\\TeacherRepo.cs",
+              "RelativeToolTip": "SchoolApi\\Repo\\Implementations\\TeacherRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T11:31:57.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Repo\\Implementations\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Repo\\Implementations\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Repo\\Implementations\\StudentRepo.cs",
+              "RelativeToolTip": "SchoolApi\\Repo\\Implementations\\StudentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T12:08:44.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITeacherRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Repo\\Interfaces\\ITeacherRepo.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Repo\\Interfaces\\ITeacherRepo.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Repo\\Interfaces\\ITeacherRepo.cs",
+              "RelativeToolTip": "SchoolApi\\Repo\\Interfaces\\ITeacherRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T11:31:48.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Dtos\\CreateStudentDto.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Dtos\\CreateStudentDto.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Dtos\\CreateStudentDto.cs",
+              "RelativeToolTip": "SchoolApi\\Dtos\\CreateStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T12:01:38.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\UnitOfWorks\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\UnitOfWorks\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\UnitOfWorks\\IUnitOfWork.cs",
+              "RelativeToolTip": "SchoolApi\\UnitOfWorks\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T11:29:39.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Repo\\Implementations\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Repo\\Implementations\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Repo\\Implementations\\GenericRepo.cs",
+              "RelativeToolTip": "SchoolApi\\Repo\\Implementations\\GenericRepo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T10:03:08.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Models\\Student.cs",
+              "RelativeToolTip": "SchoolApi\\Models\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T09:32:13.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateTeacherDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Dtos\\CreateTeacherDto.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Dtos\\CreateTeacherDto.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Dtos\\CreateTeacherDto.cs",
+              "RelativeToolTip": "SchoolApi\\Dtos\\CreateTeacherDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T11:40:29.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\AppContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\AppContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\AppContext\\AppDbContext.cs",
+              "RelativeToolTip": "SchoolApi\\AppContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T09:45:12.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Models\\Teacher.cs",
+              "RelativeToolTip": "SchoolApi\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T09:39:42.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SchoolApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T11:36:06.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20261011101406_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Migrations\\20261011101406_Init.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Migrations\\20261011101406_Init.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Migrations\\20261011101406_Init.cs",
+              "RelativeToolTip": "SchoolApi\\Migrations\\20261011101406_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T10:14:07.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\appsettings.json",
+              "RelativeToolTip": "SchoolApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-11T09:52:14.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Enrollement.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Models\\Enrollement.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Models\\Enrollement.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Models\\Enrollement.cs",
+              "RelativeToolTip": "SchoolApi\\Models\\Enrollement.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T09:40:41.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Models\\Course.cs",
+              "RelativeToolTip": "SchoolApi\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T09:38:14.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Models\\StudentProfile.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Models\\StudentProfile.cs",
+              "ToolTip": "C:\\Users\\Aadel.Ahmed\\source\\repos\\SchoolApi\\SchoolApi\\Models\\StudentProfile.cs",
+              "RelativeToolTip": "SchoolApi\\Models\\StudentProfile.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T09:36:57.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
